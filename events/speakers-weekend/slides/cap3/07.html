@@ -1,1 +1,6 @@
-<h1> Estágio - Centro de Tecnologia da Informação</h1>
+<img src="images/cap3/grafo2.png">
+
+    <pre><code data-trim data-noescape>
+    	MATCH (url : Url { endereco : "enderecoendpoint"}) <-[r] - (dadosLog : DadosLog) - [r2] -> (data : Data {data : "10/03/2016"}) 
+		RETURN DISTINCT dadosLog 
+    </code></pre>
