@@ -8,3 +8,8 @@ Execute o comando `npm install`
 Execute o comando `bower install`
 
 Execute o comando `grunt serve`
+
+
+Referencias
+
+https://www.ocf.berkeley.edu/~jmlvll/lab-reports/quantumDots/quantumDots.pdf
