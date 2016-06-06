@@ -293,4 +293,8 @@ body {
  * SLIDE NUMBER
  *********************************************/
 .reveal .slide-number {
-  color: #8b743d; }
+  /*color: #8b743d;*/ 
+  color : black;
+  font-size: 25px;
+
+}
