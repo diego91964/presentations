@@ -1,0 +1,74 @@
+O que são aplicações híbridas?
+	- Caso todo mundo saiba:	
+		- Pular esta parte da apresentação;
+	- Caso não:
+		- Explicar aplicações nativas, híbridas e nativas geradas;
+		- Nativas: Java/Android e Swift
+		- Nativas geradas Telerik
+		- Híbridas: Ionic
+
+Iniciar a demo:
+	- Definir modelo de negócio:
+		- Mostrar grafo Rede social:
+			- Usuário (nome, email, senha, link foto)
+			- Post (html)
+			- Usuário amigo de usuário
+			- Usuário tem post
+			- Usuário curti post
+
+		- Como armazenar um grafo;
+			- Falar sobre neo4j
+			- Abrir neo4j e criar exemplo de redes sociais
+
+		- Como buscar estes dados?
+			- APIs rest?
+			- Mostrar Springboot
+			- Criar um exemplo no Springboot
+			- Criar endpoints rest trabalhando com grafo
+				- Inserir usuário
+				- Buscar usuário
+				- Criar post e relacionar com usuário
+				- Adicionar como amigo
+				- Curtir post
+				- Timeline (Buscar post de amigo)
+
+		- Como apresentar os dados?
+			- O que é Ionic?
+				- Caso saibam:
+					- Pular esta parte;
+				- Caso não:
+					- Explicar node;
+					- Explicar npm;
+					- Cordova;
+					- Angular;
+
+			- Fazer pull do projeto:
+				- Com telas:
+					- Cadastro
+					- Login
+					- Buscar usuários
+					- Criar Post;
+
+			- Explicar projeto:
+				- Mostrar templates
+				- Mostrar Controllers
+				- Mostrar Services
+				- Criar um filtro
+
+			- Explicar compilação:
+				- Compilar projeto;
+				- Deixar para download;
+				- Pedir para popularem rede social;
+
+
+				- Criar Telas:
+					- Adicionar como amigo
+					- Timeline
+					- Ver Post
+					- Curtir Post
+
+			-Compilar versão final e0i criar um about "Obrigado Morrinhos"
+
+					
+
+
